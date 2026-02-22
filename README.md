@@ -14,7 +14,9 @@ o	2.8 mm/s → Green/Yellow
 o	4.5 mm/s → Yellow/Orange
 o	7.1 mm/s → Red (Critical)
 จากกราฟพบว่าแนวโน้มกำลังเข้าสู่โซนวิกฤติ (Red Zone)
+
 ![Forecast](images/2.png)
+
 2) ผลลัพธ์จากโปรแกรม
 จากผลการรันโปรแกรม
 •	Current Machine Zone: Orange

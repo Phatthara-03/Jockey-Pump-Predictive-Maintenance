@@ -1,5 +1,7 @@
 ***ผลลัพธ์หลังจากการทำงาน
+
 ![Forecast](images/1.png)
+
 1) การอธิบายกราฟ
 กราฟแสดงแนวโน้มค่า RMS (mm/s) ของการสั่นสะเทือนเครื่องจักรเทียบกับจำนวนตัวอย่าง (Samples) โดยประกอบด้วย 3 ส่วนหลัก ได้แก่
 1.	เส้นสีน้ำเงิน (Simulated RMS)
@@ -19,10 +21,15 @@ o	7.1 mm/s → Red (Critical)
 
 2) ผลลัพธ์จากโปรแกรม
 จากผลการรันโปรแกรม
+
 •	Current Machine Zone: Orange
+
 •	Model Accuracy (R²): 0.9759
+
 •	Predicted Failure at future step: 242
+
 •	Estimated Remaining Useful Life (RUL): 242 samples
+
 การตีความผลลัพธ์
 1.	ค่า R² = 0.9759
 แสดงว่าโมเดลสามารถอธิบายแนวโน้มข้อมูลได้ประมาณ 97.59% ถือว่ามีความแม่นยำสูง
